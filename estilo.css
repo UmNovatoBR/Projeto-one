@@ -300,6 +300,15 @@
             .checkbox-items{
                 font-size: 15px;
             }
-            footer
+            
+            /* Ajustando footer*/
+
+            footer .linha1{
+                flex-direction: column;
+            }
+            footer .endereço{
+                width: 95%;
+                margin-bottom: 20px;
+            }
         
         }
